@@ -1,14 +1,2 @@
-Duck[[:space:]]spinning[[:space:]]to[[:space:]]Geometry[[:space:]]Dash[[:space:]]practice[[:space:]]mode[[:space:]][1h].mp3 filter=lfs diff=lfs merge=lfs -text
-Fabulous[[:space:]]Secret[[:space:]]Powers.mp3 filter=lfs diff=lfs merge=lfs -text
-Polish[[:space:]]Cow[[:space:]][1h].mp3 filter=lfs diff=lfs merge=lfs -text
-Tarantella[[:space:]]napoletana[[:space:]][10h].mp3 filter=lfs diff=lfs merge=lfs -text
-silence[[:space:]]occasionally[[:space:]]broken[[:space:]]up[[:space:]]by[[:space:]]Michael[[:space:]]Jackson[[:space:]]sounds[[:space:]][1h].mp3 filter=lfs diff=lfs merge=lfs -text
-Happy[[:space:]]Monkey[[:space:]]Circle[[:space:]][1h].mp3 filter=lfs diff=lfs merge=lfs -text
-Rainbow[[:space:]]cockroach[[:space:]]dances[[:space:]]to[[:space:]]Daft[[:space:]]Punk[[:space:]]Around[[:space:]]the[[:space:]]World[[:space:]][1h].mp3 filter=lfs diff=lfs merge=lfs -text
-Thomas[[:space:]]the[[:space:]]dank[[:space:]]engine[[:space:]][1h].mp3 filter=lfs diff=lfs merge=lfs -text
-shreksophone[[:space:]][1h].mp3 filter=lfs diff=lfs merge=lfs -text
-I[[:space:]]Girasoli[[:space:]]-[[:space:]]L'uva[[:space:]]fogarina[[:space:]](Video[[:space:]]Ufficiale)[[:space:]][uNr9J-FGC2k].mp3 filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
-L'uva[[:space:]]fogarina.mp3 filter=lfs diff=lfs merge=lfs -text
-uva_fogarina/uva_fogarina.aup3 filter=lfs diff=lfs merge=lfs -text
 *.aup3 filter=lfs diff=lfs merge=lfs -text
