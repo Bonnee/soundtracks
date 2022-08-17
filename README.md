@@ -2,6 +2,8 @@
 
 _Perfect background music to listen to while studying/concentrating/programming STM32s_
 
+![shreksopone](./shreksophone.jpg)
+
 ----
 ## HOW TO
 To get these fantastic songs you need [git-lfs](https://git-lfs.github.com).
